@@ -8,6 +8,7 @@ Created on Fri Oct  9 00:54:14 2020
 from abc import ABC, abstractmethod
 from util import Util
 
+# HERE IS A MINOR CHANGE
 
 class AntiPatternDetector(ABC):
     def __init__(self):
